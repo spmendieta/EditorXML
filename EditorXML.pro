@@ -31,8 +31,7 @@ SOURCES += \
 HEADERS += \
         editor.h
 
-FORMS += \
-        editor.ui
+FORMS +=
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
